@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.AssemblyInfo.cs
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\bin\Debug\net6.0\my37.exe
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\bin\Debug\net6.0\my37.deps.json
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\bin\Debug\net6.0\my37.runtimeconfig.json
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\bin\Debug\net6.0\my37.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\bin\Debug\net6.0\my37.pdb
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\refint\my37.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.pdb
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\my37.genruntimeconfig.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\my37\obj\Debug\net6.0\ref\my37.dll
