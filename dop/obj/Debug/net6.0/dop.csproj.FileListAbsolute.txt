@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.AssemblyInfo.cs
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\bin\Debug\net6.0\dop.exe
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\bin\Debug\net6.0\dop.deps.json
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\bin\Debug\net6.0\dop.runtimeconfig.json
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\bin\Debug\net6.0\dop.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\bin\Debug\net6.0\dop.pdb
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\refint\dop.dll
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.pdb
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\dop.genruntimeconfig.cache
+C:\Users\HP\Documents\education\11.02.2023\-_sem5\dop\obj\Debug\net6.0\ref\dop.dll
